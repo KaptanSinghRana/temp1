@@ -4,11 +4,11 @@ int a();
 int main()
 { 
     printf("\nmain");
-    a();
+    abc();
 getch();
 
 }
-int a()
+int abc()
 {
-    printf("\n i m in a ");
+    printf("\n i m in abc ");
 }
